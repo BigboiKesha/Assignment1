@@ -1,16 +1,11 @@
 # Topics in Software Engineering
+# Assignment 1
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+Project Name: Banksy
 
-# Tools
-The tools that are installed with this devcontainer are:
+Project Description: Personal Finance App that allows you to put in your income and set up budgeting,
+categorizing expenses, and creating financial graphs/charts to visualize spending.
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
-
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+Primary User: Most people nowadays utilize the internet for everything. This applies to banking. Banksy will allow the everyday
+person to be free from paying financial managers and making poor financial decisions. This will require a simple-to-read UI and 
+a simplified design to approach maximum usability.
